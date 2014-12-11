@@ -1,0 +1,1 @@
+A simple 2 way 32-bit data handling in-order superscalar microprocessor with limited op-code and memory designed using VHDL. Its main feature is that it uses one clock and does not use any system bus to read and write data to the memory which increases the performance by decreasing the overall latency of the microprocessor.
